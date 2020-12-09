@@ -1,0 +1,12 @@
+CSP 1.1.5 Info
+  Image sizes
+	Robot: 40px x 46px
+	Level: 255px x 256px
+	  Grid: 5 squares x 5 squares
+	    - 1 px between squares
+
+  Code details
+	Start = (-100, -100)
+	"Move" = 50px
+
+
